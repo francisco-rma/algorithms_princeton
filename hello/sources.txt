@@ -1,4 +1,0 @@
-PercolationStats.java
-Percolation.java
-PercolationWeightedUnion.java
-UnionFind.java
